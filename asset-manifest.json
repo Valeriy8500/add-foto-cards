@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/add-foto-cards/static/css/main.c753879f.chunk.css",
+    "main.js": "/add-foto-cards/static/js/main.e5c028aa.chunk.js",
+    "main.js.map": "/add-foto-cards/static/js/main.e5c028aa.chunk.js.map",
+    "runtime-main.js": "/add-foto-cards/static/js/runtime-main.a318991e.js",
+    "runtime-main.js.map": "/add-foto-cards/static/js/runtime-main.a318991e.js.map",
+    "static/js/2.76eff9bd.chunk.js": "/add-foto-cards/static/js/2.76eff9bd.chunk.js",
+    "static/js/2.76eff9bd.chunk.js.map": "/add-foto-cards/static/js/2.76eff9bd.chunk.js.map",
+    "index.html": "/add-foto-cards/index.html",
+    "static/css/main.c753879f.chunk.css.map": "/add-foto-cards/static/css/main.c753879f.chunk.css.map",
+    "static/js/2.76eff9bd.chunk.js.LICENSE.txt": "/add-foto-cards/static/js/2.76eff9bd.chunk.js.LICENSE.txt",
+    "static/media/close__button_black.44a2231a.svg": "/add-foto-cards/static/media/close__button_black.44a2231a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a318991e.js",
+    "static/js/2.76eff9bd.chunk.js",
+    "static/css/main.c753879f.chunk.css",
+    "static/js/main.e5c028aa.chunk.js"
+  ]
+}
