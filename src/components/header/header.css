@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  margin-bottom: 30px;
+}
+
+.header__title {
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  margin: 0;
+}
