@@ -2,7 +2,7 @@
   "name": "add-foto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://valeriy8500.github.io/add-foto-cards",
+  "homepage": "https://valeriy8500.github.io/add-foto-cards/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
